@@ -1,0 +1,62 @@
+- declaración de variable
+- revisión de tipo
+- revisión de tamaño
+- comentario
+    - una línea
+    - múltiples líneas
+- Tipos de Datos
+    - Primitivos
+        - Boolean
+        - Numerales
+        - Strings (Cadenas)
+    - Compuestos
+        - Listas 
+            - inicialización
+            - accesar valor
+            - cambiar valor
+            - agregar valor
+            - borrar valor
+        - Tuplas
+            - inicialización
+            - accesar valor
+            - cambiar valor
+            - agregar valor
+            - borrar valor
+        - Diccionarios
+            - inicialización
+            - accesar valor
+            - cambiar valor
+            - agregar valor
+            - borrar valor
+- condicional
+    - if
+    - else if
+    - else
+- bucle for
+    - inicio
+    - fin
+    - incremento
+    - break
+    - continue
+- bucle while
+    - inicio
+    - fin
+    - incremento
+- función
+    - parámetro
+    - argumento
+    - return
+
+* Bonus: Errores
+
+- NameError: name <variable name> is not defined
+- TypeError: 'tuple' object does not support item assignment
+- KeyError: 'altura'
+- IndexError: list index out of range
+- IndentationError: unexpected indent
+- AttributeError: 'tuple' object has no attribute 'pop'
+- AttributeError: 'tuple' object has no attribute 'append'
+- Tuples
+    - change value
+    - add value
+    - delete value
